@@ -1,4 +1,4 @@
-/* 
+/* Ferdy Athaya Ramadhan/103032400021 
 Apa itu Aplikasi Budget Traveling?
 Aplikasi ini adalah program komputer yang membantu Anda menghitung dan mengelola biaya perjalanan ke berbagai tujuan. Program ini bisa menentukan kelas perjalanan berdasarkan biaya yang Anda miliki dan menghitung total biaya termasuk biaya tambahan seperti asuransi dan administrasi.
 
